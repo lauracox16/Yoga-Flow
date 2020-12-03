@@ -1,2 +1,2 @@
 # Yoga-Flow
-This is a GUI that creates a randomly-generated yoga flow, which changes from one flow to another with the help of a timer.
+A GUI that takes the user through a yoga flow, with the help of illustrations and an option to time the workout. The timer includes options to 'START', 'STOP', and 'RESET'.
