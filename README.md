@@ -17,5 +17,4 @@ A GUI that takes the user through a yoga flow, with the help of illustrations an
     * the GUI will automatically appear and can be used once the program is ran. The buttons on the GUI can be used to change to the next yoga position, and use the timer's 'START', 'STOP', and 'RESET' functions.
 
 
-   [Reference Help]: <https://www.c-sharpcorner.com/blogs/basics-for-displaying-image-in-tkinter-python/>
-   <https://www.geeksforgeeks.org/create-countdown-timer-using-python-tkinter/>
+   [Reference Help]: <https://www.c-sharpcorner.com/blogs/basics-for-displaying-image-in-tkinter-python/>, <https://www.geeksforgeeks.org/create-countdown-timer-using-python-tkinter/>
