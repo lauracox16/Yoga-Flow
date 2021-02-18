@@ -1,0 +1,13 @@
+{
+    "pose_illustrations": {
+        "high_poses": {
+            "chair.png": "todo"
+        },
+        "low_poses": {
+            "dog.jpg": "todo"
+        },
+        "leet_poses": {
+            "yoga_master.jpg": "https://images.i.thechive.com/__c29b08d7193a0b43a0d38b12316f52bb_width-600.jpeg"
+        }
+    }
+}
